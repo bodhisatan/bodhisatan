@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yao Xianjie</h1>
 <h3 align="center">A fake full-stack developer</h3>
 
-- 👨‍💻 I used to be an intern in [Baidu and ByteDance](Baidu and ByteDance)
+- 👨‍💻 I used to be an intern in Baidu and ByteDance
 
 - 📝 I regularly write articles on [https://bodhisatan.github.io/](https://bodhisatan.github.io/)
 
