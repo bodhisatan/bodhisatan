@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: bodhisatan/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "5" # 获取几条链接
           feed_list: "https://bodhisatan.github.io/atom.xml" # 改成博客订阅的地址，以RSS格式或者Atom格式输出的
