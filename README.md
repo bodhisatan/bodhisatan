@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yao Xianjie</h1>
-<h3 align="center">A fake full stack developer</h3>
+<h3 align="center">A f̸a̸k̸e̸ full stack developer</h3>
 
 - 👨‍💻 I used to be an intern in Baidu and ByteDance
 
