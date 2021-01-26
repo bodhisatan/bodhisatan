@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [MY BLOG](https://bodhisatan.github.io/)
 
-### Blogs posts
+### Newest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [关于客户端自动化测试的思考和经验总结](http://bodhisatan.github.io/2021/01/22/%E5%85%B3%E4%BA%8E%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E7%9A%84%E6%80%9D%E8%80%83%E5%92%8C%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/)
 - [搞点新花样——飞书签名自动更新](http://bodhisatan.github.io/2021/01/21/%E6%90%9E%E7%82%B9%E6%96%B0%E8%8A%B1%E6%A0%B7%E2%80%94%E2%80%94%E9%A3%9E%E4%B9%A6%E7%AD%BE%E5%90%8D%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0/)
