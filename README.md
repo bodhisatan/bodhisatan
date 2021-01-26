@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yao Xianjie</h1>
 <h3 align="center">A f̸a̸k̸e̸ full stack developer</h3>
 
-- 👨‍💻 I used to be an intern in Baidu and ByteDance
+- 👨‍💻 I used to be an intern in `Baidu` and `ByteDance`
 
-- 📝 I regularly write articles on [https://bodhisatan.github.io/](https://bodhisatan.github.io/)
+- 📝 I regularly write articles on [MY BLOG](https://bodhisatan.github.io/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
