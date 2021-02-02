@@ -6,11 +6,11 @@
 
 ### Newest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [两种不同的包体积把控思路](https://bodhisatan.github.io/2021/02/02/%E4%B8%A4%E7%A7%8D%E4%B8%8D%E5%90%8C%E7%9A%84%E5%8C%85%E4%BD%93%E7%A7%AF%E6%8A%8A%E6%8E%A7%E6%80%9D%E8%B7%AF/)
 - [JS Arrow Function](https://bodhisatan.github.io/2021/01/28/JS-Arrow-Function/)
 - [关于客户端自动化测试的思考和经验总结](https://bodhisatan.github.io/2021/01/22/%E5%85%B3%E4%BA%8E%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E7%9A%84%E6%80%9D%E8%80%83%E5%92%8C%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/)
 - [搞点新花样——飞书签名自动更新](https://bodhisatan.github.io/2021/01/21/%E6%90%9E%E7%82%B9%E6%96%B0%E8%8A%B1%E6%A0%B7%E2%80%94%E2%80%94%E9%A3%9E%E4%B9%A6%E7%AD%BE%E5%90%8D%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0/)
 - [图像拼接系统设计与实现（1）：流程与传统算法](https://bodhisatan.github.io/2021/01/11/%E5%9B%BE%E5%83%8F%E6%8B%BC%E6%8E%A5%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%EF%BC%881%EF%BC%89%EF%BC%9A%E6%B5%81%E7%A8%8B%E4%B8%8E%E4%BC%A0%E7%BB%9F%E7%AE%97%E6%B3%95/)
-- [Matrix-ApkChecker：微信团队的安卓包体积监控方案学习](https://bodhisatan.github.io/2021/01/07/Matrix-ApkChecker%EF%BC%9A%E5%BE%AE%E4%BF%A1%E5%9B%A2%E9%98%9F%E7%9A%84%E5%AE%89%E5%8D%93%E5%8C%85%E4%BD%93%E7%A7%AF%E7%9B%91%E6%8E%A7%E6%96%B9%E6%A1%88%E5%AD%A6%E4%B9%A0/)
 <!-- BLOG-POST-LIST:END -->
 
 <div>
