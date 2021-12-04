@@ -2,7 +2,7 @@
 
 - 👨‍💻 I used to be an intern in `Baidu-MEG` and `ByteDance-DCar-Tech`, now I work as a backend RD in `ByteDance-Ecom`
 
-- 📝 I regularly write articles on [MY BLOG](https://bodhisatan.github.io/)
+- 📝 I wrote articles on [MY OLD BLOG](https://xianjieyao.github.io/), now I write on [MY NEW BLOG](https://bodhisatan.github.io/)
 
 ### Newest Blog Posts
 <!-- BLOG-POST-LIST:START -->
