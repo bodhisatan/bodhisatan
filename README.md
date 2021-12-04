@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yao Xianjie</h1>
 
-- 👨‍💻 I used to be an intern in `Baidu` and `ByteDance`
+- 👨‍💻 I used to be an intern in `Baidu-MEG` and `ByteDance-DCar-Tech`, now I work as a backend RD in `ByteDance-Ecom`
 
 - 📝 I regularly write articles on [MY BLOG](https://bodhisatan.github.io/)
 
