@@ -12,4 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "5" # 获取几条链接
-          feed_list: "https://bodhisatan.github.io/atom.xml" # 改成博客订阅的地址，以RSS格式或者Atom格式输出的
+          feed_list: "https://bodhisatan.github.io/atom.xml" #改成博客订阅的地址，以RSS格式或者Atom格式输出的
