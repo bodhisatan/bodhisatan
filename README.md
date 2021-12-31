@@ -11,7 +11,9 @@
 
 <div>
 <div>
-<img  src="https://github-readme-stats.vercel.app/api?username=bodhisatan&show_icons=true&locale=en" alt="bodhisatan" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bodhisatan&show_icons=true&locale=en&layout=compact" alt="bodhisatan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bodhisatan&show_icons=true&locale=en" alt="bodhisatan" /></p>
 </div>
 <div>
   
