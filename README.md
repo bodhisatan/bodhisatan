@@ -4,7 +4,7 @@
 
 - 📝 I wrote articles on [MY OLD BLOG](https://xianjieyao.github.io/), now I write on [MY NEW BLOG](https://bodhisatan.github.io/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Bodhisatan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bodhisatan)](https://github.com/bodhisatan/github-readme-stats)
 ### Newest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [中间件实践指南](https://bodhisatan.github.io/2021/12/06/%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97/)
