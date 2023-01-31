@@ -2,7 +2,7 @@
 
 - 👨‍💻 I used to be an intern in `Baidu-MEG` and `ByteDance-DCar-Tech`, now I work as a backend RD in `ByteDance-Ecom`
 
-- 📝 I wrote articles on [MY OLD BLOG](https://xianjieyao.github.io/), now I write on [MY NEW BLOG](https://bodhisatan.github.io/)
+- 🌱 member of [CloudWeGo](https://github.com/cloudwego) org, [hertz-contrib](https://github.com/hertz-contrib) and [kitex-contrib](https://github.com/kitex-contrib); committer of [Kitex](https://github.com/cloudwego/kitex)
 
 [![Bodhisatan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bodhisatan)](https://github.com/bodhisatan/github-readme-stats)
 
